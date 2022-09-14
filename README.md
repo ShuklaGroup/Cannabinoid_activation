@@ -8,7 +8,10 @@ calculations in the manuscript.
 - CB1_scatter_plot_maker.py: Python script to generate 1-D scatter plots to project the conserved and unconserved features of CB1
 - CB2_scatter_plot_maker.py: Python script to generate 1-D scatter plots to project the conserved and unconserved features of CB2
 - Separate Numpy files containing conserved and unserved feature values for different PDBs
-- Different experimentally determined PDB files
+- Experimentally determined PDB files in different conformational state
+
+## 
+
 
 ## Main_Figure_4 
 
