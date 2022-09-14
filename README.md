@@ -1,13 +1,17 @@
-#  Activation Mechanism of Cannabinoid Receptors Elucidates Ligand Selectivity 
+#  Difference in Activation Mechanisms of Cannabinoid Receptors Regulates their Ligand Selectivity
 This repository contains MSM feature file, final MSM object, codes and pdb structure files, and bootstrap samples used to genarate figures and
 calculations in the manuscript.
 
-## Main_Figure_1
-- Figure_1C.py: Python script to generate the scatter plot as shown in Figure 1C.
-- Figure_1D.py: Python script to generate the scatter plot as shown in Figure 1D.
-- Output files of POVME package containing volumes for different PDBs  
-
 ## Main_Figure_3 
+- CB1_feature_calculator.py: Python script to calculate the feature values for the conserved and unconserved features of CB1 pdb files
+- CB2_feature_calculator.py: Python script to calculate the feature values for the conserved and unconserved features of CB2 pdb files  
+- CB1_scatter_plot_maker.py: Python script to generate 1-D scatter plots to project the conserved and unconserved features of CB1
+- CB2_scatter_plot_maker.py: Python script to generate 1-D scatter plots to project the conserved and unconserved features of CB2
+- Separate Numpy files containing conserved and unserved feature values for different PDBs
+- Different experimentally determined PDB files
+
+## Main_Figure_4 
+
 
 
 
