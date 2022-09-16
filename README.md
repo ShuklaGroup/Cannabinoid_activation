@@ -11,8 +11,10 @@ calculations in the manuscript.
 - Experimentally determined PDB files in different conformational state
 
 ## Main_Figure_4 
-- CB
-- 
+- CB1_conditional_probability_difference.py: Python script to create the bar plot as shown in Figure 4A.
+- CB2_conditional_probability_difference.py: Python script to create the bar plot as shown in Figure 4B.
+
+
 ## Main_Figure_5
 - CB1-APO_vampnet_activation_feature_bar_plt.py: Python script to generate the bar plots for the structural features for every mestatable state
 - CB1-APO_vampnet_states_TPT.py : Python script to calculate mean free passage time between every metastatble state
