@@ -10,9 +10,6 @@ calculations in the manuscript.
 - Separate Numpy files containing conserved and unserved feature values for different PDBs
 - Experimentally determined PDB files in different conformational state
 
-
-
-
 ## Main_Figure_7
 - CB1_APO_vampnet_binding_pocket.py: Python script to generate the scatter plot for CB1 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7A.
 - CB2_APO_vampnet_binding_pocket.py: Python script to generate the scatter plot for CB2 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7B.
