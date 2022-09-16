@@ -13,8 +13,8 @@ calculations in the manuscript.
 ## Main_Figure_5
 - CB1-APO_vampnet_activation_feature_bar_plt.py: Python script to generate the bar plots for the structural features for every mestatable state
 - CB1-APO_vampnet_states_TPT.py : Python script to calculate mean free passage time between every metastatble state
-- CB1_state_prob.pkl: Pickle file contains the probabilities belonging to a certain metastable state of each frame of every trajectory. 
-- CB1_msm_feature_final_clustering.pkl: Pickle file contains cluster indices of each frame of every trajectory.
+- CB1_state_prob.pkl: Pickle file contains the probabilities belonging to a certain metastable state of each frame of every trajectory. This file can be downloaded from https://uofi.box.com/s/hspienisbjt125nql31kcqtav6r5v6dn
+- CB1_msm_feature_final_clustering.pkl: Pickle file contains cluster indices of each frame of every trajectory. This file can be downloaded from https://uofi.box.com/s/hspienisbjt125nql31kcqtav6r5v6dn
 - CB1_ref_[_refstate_]_[_querystate_]_b.pdb : Representative PDB files for each metastable state containing K-L divergence value in the b-factor column.
 
 ## Main_Figure_7
