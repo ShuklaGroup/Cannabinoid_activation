@@ -10,10 +10,16 @@ calculations in the manuscript.
 - Separate Numpy files containing conserved and unserved feature values for different PDBs
 - Experimentally determined PDB files in different conformational state
 
+
+
+
 ## Main_Figure_7
+- CB1_APO_vampnet_binding_pocket.py: Python script to generate the scatter plot for CB1 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7A.
+- CB2_APO_vampnet_binding_pocket.py: Python script to generate the scatter plot for CB2 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7B.
+- Volume calculations was performed on 100 structures on each metastable state. Calculated volume and N-terminus distance for each metatable state are saved in CB_macrostate[_metastable state index_]volume_cal.pkl and CB_macrostate[_metastable state index_]N-terminus_distance.pkl files. These files can be downloaded from https://uofi.box.com/s/vyakobq2zbk5xyoxqvccxngif6jzeo0z
 - CB1_affinity_bar_plot.py: Python script to generate the bar plots of docking affinities of CB2 selective agonists (JWH-133, HU-308, JWH-015, AM1241) to CB1 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7C. 
 - CB2_affinity_bar_plot.py: Python script to generate the bar plots of docking affinities of CB2 selective agonists (JWH-133, HU-308, JWH-015, AM1241) to CB1 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7D.
-- As mentioned in the manuscript, docking of each ligand was performed on 100 structures on each metastable state. Resultant Docking Energies are saved in CB[1-2]_macrostate_pdb_[metastable state index]_CB2_agonist_[lignad index]_docking_energy.pkl files. Each file contains 100 docking energies, where each energy is the mean of best three dock poses for a single structure in a metastable state. These files can be downloaded from https://uofi.box.com/s/vyakobq2zbk5xyoxqvccxngif6jzeo0z
+- As mentioned in the manuscript, docking of each ligand was performed on 100 structures on each metastable state. Resultant Docking Energies are saved in CB[1-2]macrostate_pdb[_metastable state index_]CB2_agonist[_lignad index_]docking_energy.pkl files. Each file contains 100 docking energies, where each energy is the mean of best three dock poses for a single structure in a metastable state. The indices of JWH-133, HU-308, JWH-015, AM1241 are 1,2,3,4 respectively. These files can be downloaded from https://uofi.box.com/s/vyakobq2zbk5xyoxqvccxngif6jzeo0z
 
 ## Main_Figure_8 
 - Docked pdb structures of CB2 selective agonists (JWH-133, HU-308, JWH-015, AM1241) in CB1 (I2 and active) and CB2 (Inactive and active) metastable states. 
