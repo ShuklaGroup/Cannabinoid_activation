@@ -10,6 +10,9 @@ calculations in the manuscript.
 - Separate Numpy files containing conserved and unserved feature values for different PDBs
 - Experimentally determined PDB files in different conformational state
 
+## Main_Figure_4 
+- CB
+- 
 ## Main_Figure_5
 - CB1-APO_vampnet_activation_feature_bar_plt.py: Python script to generate the bar plots for the structural features for every mestatable state
 - CB1-APO_vampnet_states_TPT.py : Python script to calculate mean free passage time between every metastatble state
