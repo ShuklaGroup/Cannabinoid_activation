@@ -10,6 +10,14 @@ calculations in the manuscript.
 - Separate Numpy files containing conserved and unserved feature values for different PDBs
 - Experimentally determined PDB files in different conformational state
 
+## Main_Figure_5
+- CB1-APO_vampnet_activation_feature_bar_plt.py: Python script to generate the bar plots for the structural features for every mestatable state
+- CB1-APO_vampnet_states_TPT.py : Python script to calculate mean free passage time between every metastatble state
+- CB1_state_prob.pkl: pickle file contains the probabilities belonging to a certain metastable state of each frame of every trajectory. 
+
+- CB1_msm_feature_final_clustering.pkl: pickle file contains cluster indices of each frame of every trajectory.
+
+
 ## Main_Figure_7
 - CB1_APO_vampnet_binding_pocket.py: Python script to generate the scatter plot for CB1 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7A.
 - CB2_APO_vampnet_binding_pocket.py: Python script to generate the scatter plot for CB2 metatable states (Inactive, active, I1, I2, I3, I4) as shown in the Figure 7B.
