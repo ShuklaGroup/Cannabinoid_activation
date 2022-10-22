@@ -44,6 +44,9 @@ calculations in the manuscript.
 ## Initial_Coordinates
 - This directory contains all pdb and prmtop files necesary for starting MD simulation.   
 
+## Striped trajectories
+- CB1 apo activation: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/p0ivhqihimh8cr3mp4tua5gd7ygsijo8
+- CB2 apo activation: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/xl7tpf345rt8tikjaidfa8rm7gy2wrpj
 
 
 
