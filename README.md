@@ -47,6 +47,10 @@ calculations in the manuscript.
 ## Striped trajectories
 - CB1 apo activation: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/p0ivhqihimh8cr3mp4tua5gd7ygsijo8
 - CB2 apo activation: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/xl7tpf345rt8tikjaidfa8rm7gy2wrpj
+- CB1 holo active: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/a8dvtgmw4sjajcjbvmkbjbtfcpy9dy2i
+- CB1 holo inactive: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/rkflfcts7vccr4dlw325k65cxfx9fj4s
+- CB2 holo active: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/3ah3yftcs6e40tytnxgn8cw1g4fzrlir
+- CB2 holo inactive: parameter and trajectory files can be found in the box folder: https://uofi.box.com/s/9khutxgdsjc7mriqktch5ifbxcda4fs7
 
 
 
