@@ -41,6 +41,9 @@ calculations in the manuscript.
 ## Main_Figure_8 
 - Docked pdb structures of CB2 selective agonists (JWH-133, HU-308, JWH-015, AM1241) in CB1 (I2 and active) and CB2 (Inactive and active) metastable states. 
 
+## Initial_Coordinates
+- This directory contains all pdb and prmtop files necesary for starting MD simulation.   
+
 
 
 
